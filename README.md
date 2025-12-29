@@ -1,9 +1,6 @@
 ## Hi there, I'm Joel (IsuzuRen5000)
-
+![ATRI](https://github.com/user-attachments/assets/ffdcb428-2302-4333-ab1b-8c7c75d3662d)
 <p align="center">
-<p align="center">
-  <img src="你的GIF路徑" alt="Snake Animation" width="600" />
-</p>
 <pre>
       ██╗ ██████╗ ███████╗██╗     
       ██║██╔═══██╗██╔════╝██║     
