@@ -1,7 +1,4 @@
 ## Hi there, I'm Joell (IsuzuRen5000)
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/ffdcb428-2302-4333-ab1b-8c7c75d3662d" width="400" alt="ATRI" />
-</p>
 <p align="center">
 <pre>
      ██╗ ██████╗ ███████╗██╗     ██╗         ██╗ ██████╗ ███╗   ██╗███████╗███████╗
@@ -26,3 +23,7 @@
 * Currently working on: university
 * Learning: Backend Architecture
 * Fun fact: [Better to deeply satisfy a few than to slightly please the many.]
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/ffdcb428-2302-4333-ab1b-8c7c75d3662d" width="600" alt="ATRI" />
+</p>
