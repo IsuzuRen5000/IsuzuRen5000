@@ -10,7 +10,7 @@
 
 ### GitHub Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsuzuRen5000&show_icons=true&theme=transparent" alt="Joel's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IsuzuRen5000&show_icons=true&theme=transparent&count_private=true" alt="Joel's Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsuzuRen5000&layout=compact&theme=transparent" alt="Top Languages" height="180" />
 </p>
 
