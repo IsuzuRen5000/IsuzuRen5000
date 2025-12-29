@@ -1,5 +1,5 @@
 ## Hi there, I'm Joell (IsuzuRen5000)
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/ffdcb428-2302-4333-ab1b-8c7c75d3662d" width="400" alt="ATRI" />
 </p>
 <p align="center">
