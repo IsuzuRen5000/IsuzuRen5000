@@ -1,4 +1,4 @@
-#Hi there, I'm Joel (IsuzuRen5000)
+## Hi there, I'm Joel (IsuzuRen5000)
 
 ### Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
