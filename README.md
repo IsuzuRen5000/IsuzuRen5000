@@ -17,6 +17,6 @@
 ---
 
 ### 🔭 Current Focus
-* 🔭 Currently working on: university
-* 🌱 Learning: Backend Architecture
-* ⚡ Fun fact: [Better to deeply satisfy a few than to slightly please the many.]
+* Currently working on: university
+* Learning: Backend Architecture
+* Fun fact: [Better to deeply satisfy a few than to slightly please the many.]
