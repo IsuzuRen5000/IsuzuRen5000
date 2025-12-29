@@ -9,7 +9,7 @@
 ---
 
 ### GitHub Statistics
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsuzuRen5000)](https://github.com/IsuzuRen5000)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsuzuRen5000&theme=tokyonight&cache_bust=1)](https://github.com/IsuzuRen5000)
 
 ---
 
