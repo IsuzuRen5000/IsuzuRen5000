@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/IsuzuRen5000">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsuzuRen5000&theme=tokyonight&border_radius=4.6&short_numbers=true" alt="GitHub Streak" height="180" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsuzuRen5000/>
   </a>
 </p>
 <p align="left">
