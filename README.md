@@ -9,12 +9,7 @@
 ---
 
 ### GitHub Statistics
-<p align="left">
-  <a href="https://github.com/IsuzuRen5000">
-    <img src="https://streak-stats.demolab.com?user=IsuzuRen5000&theme=tokyonight&border_radius=4.6&short_numbers=true" alt="GitHub Streak" height="180" />
-  </a>
-  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=IsuzuRen5000&show_icons=true&theme=tokyonight&count_private=true" alt="Joel's Stats" height="180" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=IsuzuRen5000&theme=tokyonight&border_radius=4.6&short_numbers=true)](https://git.io/streak-stats)
 
 ---
 
