@@ -19,7 +19,7 @@
 
 ---
 
-### 🔭 Current Focus
+### Current Focus
 * Currently working on: university
 * Learning: Backend Architecture
   
