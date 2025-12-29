@@ -25,11 +25,7 @@
   
 ## Fetter to deeply satisfy a few than to slightly please the many
 
-<p align="center">
-  <a href="https://github.com/IsuzuRen5000">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsuzuRen5000/>
-  </a>
-</p>
+
          
 <p align="left">
   <img src="https://github.com/user-attachments/assets/ffdcb428-2302-4333-ab1b-8c7c75d3662d" width="600" alt="ATRI" />
