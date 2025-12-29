@@ -9,7 +9,7 @@
 ---
 
 ### GitHub Statistics
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IsuzuRen5000&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=IsuzuRen5000&theme=tokyonight&border_radius=4.6&short_numbers=true)](https://git.io/streak-stats)
 ---
 
 ### 🔭 Current Focus
