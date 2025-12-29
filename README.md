@@ -9,8 +9,7 @@
 ---
 
 ### GitHub Statistics
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IsuzuRen5000&theme=radical" alt="GitHub Streak" />
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IsuzuRen5000&theme=radical)](https://github.com/IsuzuRen5000)
 ---
 
 ### 🔭 Current Focus
