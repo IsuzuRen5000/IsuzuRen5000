@@ -1,6 +1,9 @@
 ## Hi there, I'm Joel (IsuzuRen5000)
 
 <p align="center">
+<p align="center">
+  <img src="你的GIF路徑" alt="Snake Animation" width="600" />
+</p>
 <pre>
       ██╗ ██████╗ ███████╗██╗     
       ██║██╔═══██╗██╔════╝██║     
@@ -17,10 +20,6 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
----
-
-### GitHub Statistics
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsuzuRen5000&theme=tokyonight&cache_bust=1)](https://github.com/IsuzuRen5000)
 
 ---
 
