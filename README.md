@@ -31,6 +31,6 @@
   </a>
 </p>
          
-<p align="left">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/ffdcb428-2302-4333-ab1b-8c7c75d3662d" width="600" alt="ATRI" />
 </p>
