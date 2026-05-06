@@ -21,7 +21,7 @@
 
 ### Current Focus
 * Currently working on: university
-* Learning: Backend Architecture
+* Learning: Frontend Development、Backend Architecture
   
 ## Better to deeply satisfy a few than to slightly please the many
 
