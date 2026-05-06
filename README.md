@@ -35,6 +35,3 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsuzuRen5000&theme=react-dark" width="90%"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ffdcb428-2302-4333-ab1b-8c7c75d3662d" width="600" alt="ATRI" />
-</p>
