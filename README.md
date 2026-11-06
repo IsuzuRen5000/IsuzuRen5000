@@ -32,8 +32,4 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsuzuRen5000" alt="GitHub Streak" height="180" />
   </a>
 </p>
- <p align="center">
-  <a href="https://github.com/IsuzuRen5000">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsuzuRen5000&theme=react-dark" width="90%"/>
-  </a>
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IsuzuRen5000&theme=react-dark)](https://github.com/IsuzuRen5000)
