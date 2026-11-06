@@ -35,6 +35,7 @@
 
 <p align="center">
   <a href="https://github.com/IsuzuRen5000">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsuzuRen5000&theme=react-dark" alt="Activity Graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsuzuRen5000&theme=github_dark" height="180" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IsuzuRen5000&theme=github_dark&utcOffset=8" height="180" />
   </a>
 </p>
