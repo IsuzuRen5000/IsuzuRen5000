@@ -22,7 +22,7 @@
 ---
 
 ### Current Focus
-- Currently working on: university
+- Currently working on: university | Software Engineering Intern at a tech company in Nangang, Taipei.
 - Learning: Information Security Engineering, Frontend Development
 
 ## Better to deeply satisfy a few than to slightly please the many
